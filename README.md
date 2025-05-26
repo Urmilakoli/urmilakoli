@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hello! I'm Urmila 👋  
 
-<!--
-**Urmilakoli/urmilakoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Master's student in Data Analytics in Berlin   
+🧪 I love working with data to find cool patterns   
+🛠 Tools I use: SQL, Power BI, Python, Excel  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧩 My Projects 
+- Retail Sales Dashboard (Power BI)
+- Hospital Database Design (SQL)
+- Customer Churn Prediction (Python)
+- 
+📫 Contact me: urmilakoli1923@gmail.com 
+🌐 LinkedIn: www.linkedin.com/in/urmilakoli
