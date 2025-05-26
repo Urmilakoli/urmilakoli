@@ -8,6 +8,6 @@
 - Retail Sales Dashboard (Power BI)
 - Hospital Database Design (SQL)
 - Customer Churn Prediction (Python)
-- 
+  
 📫 Contact me: urmilakoli1923@gmail.com 
 🌐 LinkedIn: www.linkedin.com/in/urmilakoli
