@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Urmila
 
-🎓 I'm a Master's student in Data Analytics at the Berlin School of Business and Innovation.  
+🎓 MSc Data Analytics Student | Circular Economy Analytics" 
 📍 Currently based in Berlin, Germany 🇩🇪  
 🧠 I love turning data into stories that help people make smart decisions!
 
